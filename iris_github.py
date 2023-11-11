@@ -1,4 +1,3 @@
-pip install pandas
 pip install matplotlib
 pip install --upgrade matplotlib
 pip install seaborn
