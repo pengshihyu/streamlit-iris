@@ -5,6 +5,7 @@ import seaborn as sns
 from sklearn.datasets import load_iris
 source /home/adminuser/venv/bin/activate
 pip install matplotlib
+pip3 install pandas matplotlib seaborn scikit-learn
 
 
 # from sklearn.datasets import load_iris
