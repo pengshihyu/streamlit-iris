@@ -1,4 +1,7 @@
-pip3 install pandas matplotlib seaborn scikit-learn
+pip3 install pandas 
+pip3 install matplotlib 
+pip3 install seaborn 
+pip3 install scikit-learn
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
