@@ -1,7 +1,10 @@
-pip3 install pandas 
-pip3 install matplotlib 
-pip3 install seaborn 
-pip3 install scikit-learn
+pip install pandas
+pip install matplotlib
+pip install --upgrade matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install --upgrade streamlit
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
