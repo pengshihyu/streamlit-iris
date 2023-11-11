@@ -3,10 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.datasets import load_iris
-import matplotlib
-matplotlib.use('Agg')  # 使用Agg后端
-import matplotlib.pyplot as plt
-
 
 # from sklearn.datasets import load_iris
 # iris = load_iris()
