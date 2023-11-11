@@ -1,4 +1,3 @@
-pip install matplotlib
 pip install --upgrade matplotlib
 pip install seaborn
 pip install scikit-learn
