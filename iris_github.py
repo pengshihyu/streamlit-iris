@@ -6,7 +6,6 @@ from sklearn.datasets import load_iris
 import matplotlib
 matplotlib.use('Agg')  # 使用Agg后端
 import matplotlib.pyplot as plt
-source /home/adminuser/venv/bin/activate
 
 
 # from sklearn.datasets import load_iris
