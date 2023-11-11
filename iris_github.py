@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.datasets import load_iris
+source /home/adminuser/venv/bin/activate
+
 
 # from sklearn.datasets import load_iris
 # iris = load_iris()
